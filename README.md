@@ -28,6 +28,7 @@
 ## Motors
 
 - Motors from [Encos](encos.cn)
+
 | Joint | Model |
 |-------|-------|
 | Pitch      | EC-A6416-P2-25   |
