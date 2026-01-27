@@ -11,10 +11,10 @@ Asimov is a complete bipedal leg for humanoid robots, built with off-the-shelf c
 </p>
 
 ## Specifications
-- 12 DOF actuation, 6 DOF per leg
+- [12 DOF actuation, 6 DOF per leg](https://github.com/asimovinc/asimov-v0/tree/main/mechanical)
 - Articulated toe
-- RSU (Revolute Spherical Universal) ankle mechanism
-- MJF 3D printing compatible
+- RSU (Revolute Spherical Universal) [ankle mechanism](https://github.com/asimovinc/asimov-v0/tree/main/mechanical)
+- [MJF 3D printing compatible](https://github.com/asimovinc/asimov-v0/tree/main/sim-model)
 
 ## Left Leg
 
